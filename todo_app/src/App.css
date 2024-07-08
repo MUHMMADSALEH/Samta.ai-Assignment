@@ -1,0 +1,31 @@
+.list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+margin-top: 30px;
+   
+}
+.task{
+  padding: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-direction: column;
+  border: 2px solid black;
+  border-radius: 7px  ;
+  height:100%;
+  width: 100%;
+
+}
+.DeleteAWorkAndUpdate{
+   
+  
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
